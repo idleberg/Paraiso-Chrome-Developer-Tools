@@ -33,6 +33,6 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][4]
 
 [1]: http://www.rubenslp.com.br/
-[2]: https://raw.github.com/idleberg/Paraiso-iTerm2/master/images/screenshot.gif
+[2]: https://raw.github.com/idleberg/Paraiso-Chrome-Developer-Tools/master/images/screenshot.gif
 [3]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 [4]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Paraiso-Chrome-Developer-Tools/&title=Paraiso&20Color%20Scheme&description=A%29color%29scheme%29inspired%29by%29the%29colorful%29illustrations%29by%29Brazilian%29artist%29Rubens%29LP&language=en_GB&tags=chrome,color%20scheme,theme,syntax%20highlight,style-sheets&hidden=0&category=software
