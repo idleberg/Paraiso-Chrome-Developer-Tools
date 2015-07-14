@@ -2,7 +2,9 @@
 
 A color scheme inspired by the colorful illustrations by Brazilian artist [Rubens LP](http://www.rubenslp.com.br/).
 
-![Animated Screenshot](https://raw.github.com/idleberg/Paraiso-Chrome-Developer-Tools/master/screenshot.png)
+![Preview](https://raw.github.com/idleberg/Paraiso-Chrome-Developer-Tools/master/screenshot.png)
+
+**Note**: As of Chrome 33, theming support has been overworked (if not [removed](https://codereview.chromium.org/66383005/) altogether), making this style-sheet incompatible. Should you be interested in updating this theme, you might want to use this [Yeoman generator](https://www.npmjs.org/package/generator-devtools-theme) as reference. Please commit your changes to the [Base16 template](https://github.com/chriskempson/base16-builder/tree/master/templates/chrome-devtools)!
 
 ## Installation
 
